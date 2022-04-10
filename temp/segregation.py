@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/5903867/minimum-distance-algorithm-using-gdal-and-python
